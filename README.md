@@ -38,7 +38,6 @@
                 <!-- Replace these with your actual contact details -->
                 <li><strong>Email:</strong> <a href="mailto:lethabonkopa.gmail@example.com">lethabonkopa.gmail@example.com</a> ✉️</li>
                 <li><strong>LinkedIn:</strong> <a href="https://www.linkedin.com/in/lethabo-nkopa-a8b598351/">Lethabo Nkopa</a> 🔗</li>
-                <li><strong>Portfolio:</strong> <a href="https://www.linkedin.com/in/lethabo-nkopa-a8b598351/">Your Portfolio/Website</a> 🌐</li>
             </ul>
         </section>
             <p align="center"><image src="https://img1.picmix.com/output/stamp/normal/9/6/6/4/1584669_4606c.gif"></p>
